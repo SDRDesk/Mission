@@ -1,0 +1,14 @@
+// Your mission, should you choose to accept it,
+// is to profit from the win32::Window class I made in order
+// to create a command-line program that then launches an instance of a win32::Window
+// that remains open until you hit the X in the top right of the window.
+
+// Confirm that the window instance you have created responds to resizing, maximising, etc,
+// and that your application ends when the window is closed. 
+
+// You may need to carefully look at the code
+// in the header file. You may use any resources you can find online to tackle the mission, like
+// MSDN and stack overflow. You will also definitely need to know about classes in c++ in general,
+// and how to include the code from the header file in your VS project.
+
+// Level of difficulty: Intermediate. GL OM!
